@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import "go_proj\src\utils"
+import "go_proj/src/utils"
 
 func main() {
 	fmt.Println("hello, world1")
